@@ -32,13 +32,13 @@ void main() {
         '#7f0000ff', // red
         '#7f00ff00', // green
         '#7fff0000', // blue
-        '#7f888888', // grey
+        '#7f878787', // grey
 
         //Third raw, 25% transparent
         '#3f0000ff', // red
         '#3f00ff00', // green
         '#3fff0000', // blue
-        '#3f888888', // grey
+        '#3f868686', // grey
 
         //Fourth raw, transparent
         '#00000000',
